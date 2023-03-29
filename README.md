@@ -1,14 +1,14 @@
 # DHT-11
-Датчик температуры и влажности DHT-11 (./dht-11/)[source]
+Датчик температуры и влажности DHT-11 [source](./dht-11/)
 
 https://роботехника18.рф/dht11/
 
 # KY-008
-Лазер (./ky-008/)[source]
+Лазер [source](./ky-008/)
 
 https://arduino-tex.ru/news/33/ky-008-lazernyi-modul-podklyuchenie-k-arduino.html
 
 # KY-023
-Джойстик (./ky-023/)[source]
+Джойстик [source](./ky-023/)
 
 https://роботехника18.рф/джойстик-ардуино/
